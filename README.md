@@ -12,7 +12,7 @@
 
 ---
 
-- 🏆 **3rd Place**, Google Gemini 3 Seoul Hackathon — solo vs 111 teams ($20K credits)
+- 🏆 **3rd Place**, Google Gemini 3 Seoul Hackathon — solo ($20K credits)
 - 🤖 Driving **Claude Code** adoption across 15+ engineers
 - 🔧 Building autonomous **AI ops agents** with MCP & Claude
 - 🎯 Shipping AI that works — not demos
