@@ -12,7 +12,7 @@
 
 ---
 
-- 🏆 **3rd Place**, Google Gemini 3 Seoul Hackathon — solo ($20K credits)
+- 🏆 **3rd Place**, Google Gemini 3 Seoul Hackathon — solo vs 111 teams ($20K credits)
 - 🤖 Driving **Claude Code** adoption across 15+ engineers
 - 🔧 Building autonomous **AI ops agents** with MCP & Claude
 - 🎯 Shipping AI that works — not demos
@@ -32,12 +32,16 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jays0606&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jays0606&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <a href="https://github.com/jays0606">
+    <img src="https://github-readme-stats.vercel.app/api?username=jays0606&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" height="165" />
+  </a>
+  <a href="https://github.com/jays0606">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jays0606&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="165" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jays0606&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=jays0606&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
