@@ -32,15 +32,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/jays0606">
-    <img src="https://github-readme-stats.vercel.app/api?username=jays0606&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" height="165" />
-  </a>
-  <a href="https://github.com/jays0606">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jays0606&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="165" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=jays0606&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
